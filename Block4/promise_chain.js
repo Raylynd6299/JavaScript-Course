@@ -13,4 +13,4 @@ function segundo(numero){
     })
 }
 //de calculo regresa 5, ese 5 entra a segundo y de segundo sale la cadena
-Calcular().then(segundo).then(console.log(resolve))
+Calcular().then(segundo).then(console.log)
